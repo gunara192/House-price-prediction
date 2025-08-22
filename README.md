@@ -55,11 +55,11 @@ scikit-learn
 How to Use
 Download the dataset from Kaggle.
 
-Run the Jupyter Notebook (.ipynb) step by step.
+Run the Jupyter Notebook  step by step.
 
-(Optional) Experiment with different features or models.
+ Experiment with different features or models.
 
-What I Learned
+What I Learned:
 Real-world data often has missing values and needs careful cleaning.
 
 Regression can be a powerful tool for price/value estimation tasks.
