@@ -66,4 +66,4 @@ Regression can be a powerful tool for price/value estimation tasks.
 
 End-to-end model building and evaluation enhances practical data science skills.
 
-"updated README with full project details"
+
